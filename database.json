@@ -1,0 +1,62 @@
+{
+    "user_9351d321-c35b-4c54-8deb-b553b6871422": {
+        "cart": [
+            {}
+        ],
+        "delivered": [
+            {}
+        ],
+        "email": "user@mail.com",
+        "id": "d71921c1-8920-4ddd-b799-e5cfcc401723",
+        "onProcess": [
+            {}
+        ],
+        "password": "user",
+        "username": "user"
+    },
+    "Eru_9351d321-c35b-4c54-8deb-b553b6871422": {
+        "cart": [
+            {}
+        ],
+        "delivered": [
+            {}
+        ],
+        "email": "user@mail.com",
+        "id": "d71921c1-8920-4ddd-b799-e5cfcc401723",
+        "onProcess": [
+            {}
+        ],
+        "password": "Eru",
+        "username": "Eru"
+    },
+    "Kenobi_e9acf89c-14db-4ae9-a680-8f78142b1e1d": {
+        "id": "e9acf89c-14db-4ae9-a680-8f78142b1e1d",
+        "username": "Kenobi",
+        "password": "123",
+        "email": "Kenobi@mail",
+        "cart": [
+            {}
+        ],
+        "delivered": [
+            {}
+        ],
+        "onProcess": [
+            {}
+        ]
+    },
+    "Garfield_ef5dd91c-cf83-4914-be29-971a1f239c53": {
+        "id": "ef5dd91c-cf83-4914-be29-971a1f239c53",
+        "username": "Garfield",
+        "password": "Cat",
+        "email": "gf@mail.com",
+        "cart": [
+            {}
+        ],
+        "delivered": [
+            {}
+        ],
+        "onProcess": [
+            {}
+        ]
+    }
+}
